@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle / outputs
+output/
+logs/
+
+# Dataset
+data/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
