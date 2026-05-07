@@ -4,4 +4,4 @@
 
 # Confusion
 
-<img src="img/confusion.png" width="70%"/>
+<img src="img/confusing.png" width="70%"/>
