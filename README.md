@@ -1,6 +1,6 @@
 # Training process
 
-<img src="img/curve.png" width="70%"/>
+<img src="img/curve.png" width="90%"/>
 
 # Confusion
 
